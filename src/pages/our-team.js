@@ -1,6 +1,10 @@
 import React from 'react';
 import { Link } from 'gatsby';
 
+import TestImage1 from 'src/images/test-image-1.jpg';
+import TestImage4 from 'src/images/test-image-4.jpg';
+import TestImage6 from 'src/images/test-image-6.jpg';
+import TestImage7 from 'src/images/test-image-7.jpg';
 import Layout from 'src/components/Layout';
 import SEO from 'src/components/SEO';
 
@@ -27,7 +31,7 @@ const OurTeamPage = () => (
                 <img
                   alt="team"
                   className="flex-shrink-0 object-cover object-center w-48 h-48 mb-4 rounded-lg sm:mb-0"
-                  src="https://dummyimage.com/200x200"
+                  src={TestImage1}
                 ></img>
                 <div className="flex-grow sm:pl-8">
                   <h2 className="text-lg font-medium text-gray-900 title-font">
@@ -84,7 +88,7 @@ const OurTeamPage = () => (
                 <img
                   alt="team"
                   className="flex-shrink-0 object-cover object-center w-48 h-48 mb-4 rounded-lg sm:mb-0"
-                  src="https://dummyimage.com/201x201"
+                  src={TestImage6}
                 ></img>
                 <div className="flex-grow sm:pl-8">
                   <h2 className="text-lg font-medium text-gray-900 title-font">
@@ -141,11 +145,11 @@ const OurTeamPage = () => (
                 <img
                   alt="team"
                   className="flex-shrink-0 object-cover object-center w-48 h-48 mb-4 rounded-lg sm:mb-0"
-                  src="https://dummyimage.com/204x204"
+                  src={TestImage4}
                 ></img>
                 <div className="flex-grow sm:pl-8">
                   <h2 className="text-lg font-medium text-gray-900 title-font">
-                    Atticus Finch
+                    Helen Mitchan
                   </h2>
                   <h3 className="mb-3 text-gray-500">UI Developer</h3>
                   <p className="mb-4">
@@ -198,7 +202,7 @@ const OurTeamPage = () => (
                 <img
                   alt="team"
                   className="flex-shrink-0 object-cover object-center w-48 h-48 mb-4 rounded-lg sm:mb-0"
-                  src="https://dummyimage.com/206x206"
+                  src={TestImage7}
                 ></img>
                 <div className="flex-grow sm:pl-8">
                   <h2 className="text-lg font-medium text-gray-900 title-font">
