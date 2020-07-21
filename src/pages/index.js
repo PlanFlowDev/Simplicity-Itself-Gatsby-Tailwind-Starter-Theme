@@ -5,7 +5,9 @@ import Layout from 'src/components/Layout';
 import TestImage1 from 'src/images/test-image-1.jpg';
 import TestImage2 from 'src/images/test-image-2.jpg';
 import TestImage3 from 'src/images/test-image-3.jpg';
-import MiraImage1 from 'src/images/mira-farms-1.jpeg';
+import FarmProduct1 from 'src/images/farm-product-1.jpg';
+import FarmProduct2 from 'src/images/farm-product-2.jpg';
+import FarmImage from 'src/images/simplicity-farms.jpg';
 import StripeImage1 from 'src/images/logo-stripe.png';
 import GastbyIcon from 'src/images/gatsby-icon.png';
 import TailwindIcon from 'src/images/tailwind.png';
@@ -40,7 +42,7 @@ const IndexPage = () => (
             </span>
           </div>
           <div className="mt-4 text-xl">
-            Founded in 2018, Simplicity Farms has been growing high-quality,
+            Founded in 2020, Simplicity Farms has been growing high-quality,
             sustainable rice for the market.
           </div>
           <div className="h-16 my-5 mt-10">
@@ -59,7 +61,7 @@ const IndexPage = () => (
               <img
                 alt="card img"
                 className="rounded-t"
-                src={MiraImage1}
+                src={FarmImage}
               ></img>
               <div className="p-10 text-2xl bg-white">
                 <img
@@ -83,7 +85,7 @@ const IndexPage = () => (
             <div className="flex w-full p-4 mr-2 bg-white rounded shadow-xl md:h-auto sm:h-40">
               <img
                 className="w-full h-auto bg-gray-400 bg-cover rounded"
-                src={MiraImage1}
+                src={FarmImage}
                 alt=""
               ></img>
             </div>
@@ -118,8 +120,8 @@ const IndexPage = () => (
           <div className="product sm:max-w-sm">
             <img
               className="w-full"
-              src={MiraImage1}
-              alt="Bag Of Rice"
+              src={FarmProduct2}
+              alt="Plate of rice"
             ></img>
             <div className="px-6 py-4">
               <div className="mb-2 text-xl font-bold">
@@ -153,8 +155,8 @@ const IndexPage = () => (
           <div className="product sm:max-w-sm">
             <img
               className="w-full"
-              src={MiraImage1}
-              alt="Bag Of Rice"
+              src={FarmProduct2}
+              alt="Plate of rice"
             ></img>
             <div className="px-6 py-4">
               <div className="mb-2 text-xl font-bold">

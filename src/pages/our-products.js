@@ -5,6 +5,8 @@ import Layout from 'src/components/Layout';
 import TestImage1 from 'src/images/test-image-1.jpg';
 import TestImage2 from 'src/images/test-image-2.jpg';
 import TestImage3 from 'src/images/test-image-3.jpg';
+import FarmProduct1 from 'src/images/farm-product-1.jpg';
+import FarmProduct2 from 'src/images/farm-product-2.jpg';
 import MiraFarmsImage1 from 'src/images/mira-farms-1.jpeg';
 import StripeImage1 from 'src/images/logo-stripe.png';
 import SEO from 'src/components/SEO';
@@ -22,12 +24,12 @@ const IndexPage = () => (
           <div className="product sm:max-w-sm">
             <img
               className="w-full"
-              src={MiraFarmsImage1}
-              alt="Bag Of Rice"
+              src={FarmProduct2}
+              alt="Plate of rice"
             ></img>
             <div className="px-6 py-4">
               <div className="mb-2 text-xl font-bold">
-                Simplicity Original Produce
+                Simplicity Farms Original Rice
               </div>
               <p className="mb-4 text-base text-gray-600">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -41,7 +43,7 @@ const IndexPage = () => (
             </button>
             <div className="flex flex-col px-6 py-4 sm:flex-row">
               <span className="w-20 mb-4 mr-2 text-white sm:w-auto prd-tag bg-primary sm:mb-0">
-                $1,000
+                $1,250
               </span>
               <span className="w-20 mr-2 text-white sm:w-auto prd-tag bg-brown-light">
                 25KG
@@ -57,12 +59,12 @@ const IndexPage = () => (
           <div className="product sm:max-w-sm">
             <img
               className="w-full"
-              src={MiraFarmsImage1}
-              alt="Bag Of Rice"
+              src={FarmProduct2}
+              alt="Plate of rice"
             ></img>
             <div className="px-6 py-4">
               <div className="mb-2 text-xl font-bold">
-                Simplicity Original Produce
+                Simplicity Farms Original Rice
               </div>
               <p className="mb-4 text-base text-gray-600">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit.

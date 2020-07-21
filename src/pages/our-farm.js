@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'gatsby';
 
 import Layout from 'src/components/Layout';
-import MiraFarmsImage1 from 'src/images/mira-farms-1.jpeg';
+import FarmImage from 'src/images/simplicity-farms.jpg';
 import SEO from 'src/components/SEO';
 
 const OurFarmPage = () => (
@@ -18,7 +18,7 @@ const OurFarmPage = () => (
                   <img
                     alt="card img"
                     className="rounded-t"
-                    src={MiraFarmsImage1}
+                    src={FarmImage}
                   ></img>
                 </div>
               </div>

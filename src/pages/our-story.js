@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'gatsby';
 
 import Layout from 'src/components/Layout';
-import MiraFarmsImage1 from 'src/images/mira-farms-1.jpeg';
+import FarmImage from 'src/images/simplicity-farms.jpg';
 import SEO from 'src/components/SEO';
 
 const OurStoryPage = () => (
@@ -25,73 +25,63 @@ const OurStoryPage = () => (
           </time>
 
           <p className="mt-8 mb-12">
-            mandou started a farm and he wanted to grow rice.
-            <br />
-            [Flashback] Quelques jours avant, on leur annonce que leur poste va
-            être remplacé par des indépendants, qu'ils n'auront pas
-            d'augmentation et que la prochaine mission serait à 2h de chez eux!
-            C'en était fini, ils devaient prendre leur destin en main. Une
-            semaine plus tard, ils démissionnaient...
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu odio ut sem nulla pharetra. Rhoncus aenean vel elit scelerisque mauris pellentesque pulvinar.
           </p>
         </div>
       </div>
       <div class="flex flex-wrap lg:justify-left pl-4">
-        <a
+        <Link
           class="w-1/4 sm:w-1/2 lg:w-1/4 mb-6"
           title="Burris Custom Turrets"
-          href="/brands/burris/scopes"
+          to="/brands/burris/scopes"
         >
           <div class="p-4 text-center bg-white hover:bg-gray-100 hover:shadow-lg transition border rounded m-2 h-3/4 pb-10 sm:pb-auto sm:h-full flex flex-col justify-between">
-            <img
-              class="sm:h-32 w-3/4 sm:w-full mx-auto"
+            <img class="rounded sm:h-32 w-3/4 sm:w-full mx-auto"
               alt="Burris Custom Turrets"
               src="https://imgur.com/GHWFqRs.jpg"
             ></img>
             <h2 class="text-sm sm:text-xl mb-0 text-gray-900">Burris</h2>
           </div>
-        </a>
-        <a
+        </Link>
+        <Link
           class="w-1/4 sm:w-1/2 lg:w-1/4 mb-6"
           title="Bushnell Custom Turrets"
-          href="/brands/bushnell/scopes"
+          to="/brands/bushnell/scopes"
         >
           <div class="p-4 text-center bg-white hover:bg-gray-100 hover:shadow-lg transition border rounded m-2 h-3/4 pb-10 sm:pb-auto sm:h-full flex flex-col justify-between">
-            <img
-              class="sm:h-32 w-3/4 sm:w-full mx-auto"
+            <img class="rounded sm:h-32 w-3/4 sm:w-full mx-auto"
               alt="Bushnell Custom Turrets"
               src="https://imgur.com/nEbeaju.jpg"
             ></img>
             <h2 class="text-sm sm:text-xl mb-0 text-gray-900">Bushnell</h2>
           </div>
-        </a>
-        <a
+        </Link>
+        <Link
           class="w-1/4 sm:w-1/2 lg:w-1/4 mb-6"
           title="Kahles Custom Turrets"
-          href="/brands/kahles/scopes"
+          to="/brands/kahles/scopes"
         >
           <div class="p-4 text-center bg-white hover:bg-gray-100 hover:shadow-lg transition border rounded m-2 h-3/4 pb-10 sm:pb-auto sm:h-full flex flex-col justify-between">
-            <img
-              class="sm:h-32 w-3/4 sm:w-full mx-auto"
+            <img class="rounded sm:h-32 w-3/4 sm:w-full mx-auto"
               alt="Kahles Custom Turrets"
               src="https://imgur.com/FxqGLzn.png"
             ></img>
             <h2 class="text-sm sm:text-xl mb-0 text-gray-900">Kahles</h2>
           </div>
-        </a>
-        <a
+        </Link>
+        <Link
           class="w-1/4 sm:w-1/2 lg:w-1/4 mb-6"
           title="Leupold Custom Turrets"
-          href="/brands/leupold/scopes"
+          to="/brands/leupold/scopes"
         >
           <div class="p-4 text-center bg-white hover:bg-gray-100 hover:shadow-lg transition border rounded m-2 h-3/4 pb-10 sm:pb-auto sm:h-full flex flex-col justify-between">
-            <img
-              class="sm:h-32 w-3/4 sm:w-full mx-auto"
+            <img class="rounded sm:h-32 w-3/4 sm:w-full mx-auto"
               alt="Leupold Custom Turrets"
-              src={MiraFarmsImage1}
+              src={FarmImage}
             ></img>
             <h2 class="text-sm sm:text-xl mb-0 text-gray-900">Leupold</h2>
           </div>
-        </a>
+        </Link>
       </div>
       <div className="story-section">
         <div className="flex items-start flex-initial w-8 px-8 border-r-2 border-gray-300 border-dashed"></div>
@@ -109,48 +99,37 @@ const OurStoryPage = () => (
           </time>
 
           <p className="mt-8 mb-12">
-            Devenir des freelances, mouais, pourquoi pas. Mais ça ne nous
-            suffisait pas. Pourquoi on ne créerait pas une société d’amis, où
-            ces amis susdits seraient eux aussi indépendants, sans pour autant
-            avoir les prises de têtes administratives? Ah ça existe déjà? Et ca
-            s’appelle une société de portage? Ok, ok... Parfait,{' '}
-            <strong>let’s started</strong> comme on dit lorsqu'une pénible
-            réunion bourrée de graphiques et de Powerpoint est sur le point de
-            commencer! Après quelques démarches et surtout des dizaines de
-            papiers à remplir (merci l'administration Française), la société
-            Ownway était née.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu odio ut sem nulla pharetra. Rhoncus aenean vel elit scelerisque mauris pellentesque pulvinar.
           </p>
         </div>
       </div>
       <div class="flex flex-wrap lg:justify-left">
-        <a
+        <Link
           class="w-1/4 sm:w-1/2 lg:w-1/4 mb-6"
           title="Burris Custom Turrets"
-          href="/brands/burris/scopes"
+          to="/brands/burris/scopes"
         >
           <div class="p-4 text-center bg-white hover:bg-gray-100 hover:shadow-lg transition border rounded m-2 h-3/4 pb-10 sm:pb-auto sm:h-full flex flex-col justify-between">
-            <img
-              class="sm:h-32 w-3/4 sm:w-full mx-auto"
+            <img class="rounded sm:h-32 w-3/4 sm:w-full mx-auto"
               alt="Burris Custom Turrets"
               src="https://imgur.com/GHWFqRs.jpg"
             ></img>
             <h2 class="text-sm sm:text-xl mb-0 text-gray-900">Burris</h2>
           </div>
-        </a>
-        <a
+        </Link>
+        <Link
           class="w-1/4 sm:w-1/2 lg:w-1/4 mb-6"
           title="Bushnell Custom Turrets"
-          href="/brands/bushnell/scopes"
+          to="/brands/bushnell/scopes"
         >
           <div class="p-4 text-center bg-white hover:bg-gray-100 hover:shadow-lg transition border rounded m-2 h-3/4 pb-10 sm:pb-auto sm:h-full flex flex-col justify-between">
-            <img
-              class="sm:h-32 w-3/4 sm:w-full mx-auto"
+            <img class="rounded sm:h-32 w-3/4 sm:w-full mx-auto"
               alt="Bushnell Custom Turrets"
               src="https://imgur.com/nEbeaju.jpg"
             ></img>
             <h2 class="text-sm sm:text-xl mb-0 text-gray-900">Bushnell</h2>
           </div>
-        </a>
+        </Link>
       </div>
       <div className="story-section">
         <div className="flex items-start flex-initial w-8 px-8 border-r-2 border-gray-300 border-dashed"></div>
@@ -168,11 +147,7 @@ const OurStoryPage = () => (
           </time>
 
           <p className="mt-8 mb-12">
-            En 2 mois à peine, 2 amis nous rejoignent pour consolider l'équipe
-            et l’aventure Ownway pouvait ainsi réellement débuter. Notre
-            leitmotiv? Une transparence totale assortie d’un accompagnement sans
-            faille. Dont acte: avec nous, pas de difficulté, que des solutions
-            (très bonne punchline ça Jean-Michel, on la garde).
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu odio ut sem nulla pharetra. Rhoncus aenean vel elit scelerisque mauris pellentesque pulvinar.
           </p>
         </div>
       </div>
@@ -192,11 +167,7 @@ const OurStoryPage = () => (
           </time>
 
           <p className="mt-8 mb-12">
-            L'année 2018 est riche en projets et en découvertes. Le
-            bouche-à-oreille fonctionne bien, nos potes nous font une totale
-            confiance et sont extrêmement satisfaits de nos prestations. Il n’en
-            faut pas plus pour que de nouveaux portés nous rejoignent et nous
-            motivent encore plus.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu odio ut sem nulla pharetra. Rhoncus aenean vel elit scelerisque mauris pellentesque pulvinar.
           </p>
         </div>
       </div>
@@ -216,12 +187,7 @@ const OurStoryPage = () => (
           </time>
 
           <p className="mt-8 mb-12">
-            Forts de ce succès, il nous fallait rapidement prendre une décision:
-            on ne pouvait pas rester les bras croisés... Nous nous ouvrons au
-            reste du monde via ce site pour te donner l'envie de découvrir un
-            nouveau mode de travail et te montrer à quel point on peut faire
-            toute la différence. Mais ne t'inquiétes pas, nous restons les
-            mêmes, l’esprit de Ownway reste intact (for ever).
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu odio ut sem nulla pharetra. Rhoncus aenean vel elit scelerisque mauris pellentesque pulvinar.
           </p>
         </div>
       </div>
