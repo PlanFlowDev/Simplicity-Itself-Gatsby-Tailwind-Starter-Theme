@@ -30,8 +30,7 @@ const OurStoryPage = () => (
         </div>
       </div>
       <div class="flex flex-wrap lg:justify-left pl-4">
-        <Link
-          class="w-1/4 sm:w-1/2 lg:w-1/4 mb-6"
+        <Link class="hover:no-underline w-1/4 sm:w-1/2 lg:w-1/4 mb-6"
           title="Burris Custom Turrets"
           to="/brands/burris/scopes"
         >
@@ -43,8 +42,7 @@ const OurStoryPage = () => (
             <h2 class="text-sm sm:text-xl mb-0 text-gray-900">Burris</h2>
           </div>
         </Link>
-        <Link
-          class="w-1/4 sm:w-1/2 lg:w-1/4 mb-6"
+        <Link class="hover:no-underline w-1/4 sm:w-1/2 lg:w-1/4 mb-6"
           title="Bushnell Custom Turrets"
           to="/brands/bushnell/scopes"
         >
@@ -56,8 +54,7 @@ const OurStoryPage = () => (
             <h2 class="text-sm sm:text-xl mb-0 text-gray-900">Bushnell</h2>
           </div>
         </Link>
-        <Link
-          class="w-1/4 sm:w-1/2 lg:w-1/4 mb-6"
+        <Link class="hover:no-underline w-1/4 sm:w-1/2 lg:w-1/4 mb-6"
           title="Kahles Custom Turrets"
           to="/brands/kahles/scopes"
         >
@@ -69,8 +66,7 @@ const OurStoryPage = () => (
             <h2 class="text-sm sm:text-xl mb-0 text-gray-900">Kahles</h2>
           </div>
         </Link>
-        <Link
-          class="w-1/4 sm:w-1/2 lg:w-1/4 mb-6"
+        <Link class="hover:no-underline w-1/4 sm:w-1/2 lg:w-1/4 mb-6"
           title="Leupold Custom Turrets"
           to="/brands/leupold/scopes"
         >
@@ -104,8 +100,7 @@ const OurStoryPage = () => (
         </div>
       </div>
       <div class="flex flex-wrap lg:justify-left">
-        <Link
-          class="w-1/4 sm:w-1/2 lg:w-1/4 mb-6"
+        <Link class="hover:no-underline w-1/4 sm:w-1/2 lg:w-1/4 mb-6"
           title="Burris Custom Turrets"
           to="/brands/burris/scopes"
         >
@@ -117,8 +112,7 @@ const OurStoryPage = () => (
             <h2 class="text-sm sm:text-xl mb-0 text-gray-900">Burris</h2>
           </div>
         </Link>
-        <Link
-          class="w-1/4 sm:w-1/2 lg:w-1/4 mb-6"
+        <Link class="hover:no-underline w-1/4 sm:w-1/2 lg:w-1/4 mb-6"
           title="Bushnell Custom Turrets"
           to="/brands/bushnell/scopes"
         >
