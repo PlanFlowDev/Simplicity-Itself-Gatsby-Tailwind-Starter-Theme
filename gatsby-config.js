@@ -3,7 +3,7 @@ module.exports = {
     title: 'Simplicity Itself',
     description: 'A Simple, Free Gatsby/TailwindCSS Starter Theme For Business Websites',
     author: 'PlanFlow.dev',
-    company: '<ADD YOUR COMPANY NAME HERE>',
+    company: 'Your Company Name Here',
   },
   plugins: [
     'gatsby-plugin-postcss',

@@ -30,7 +30,7 @@ const OurFarmPage = () => (
                 className="text-4xl text-center text-black md:ml-2 md:text-black"
                 itemprop="name"
               >
-                Wellingara Farm
+                Simplicity Farm
               </h2>
               <div className="w-full py-6 mt-12 text-center md:ml-4 lg:ml-auto">
                 <Link
@@ -53,14 +53,14 @@ const OurFarmPage = () => (
                 className="p-4 leading-normal text-black bg-white rounded-lg shadow"
                 itemprop="description"
               >
-                Personal Website of Mira Farms
+                Personal Website of Simplicity Farms
               </div>
             </div>
             <div className="mb-4">
               <h4 className="mb-4 text-lg text-black">Owner</h4>
               <div className="flex items-center mb-3">
                 <span className="text-sm text-black" itemprop="author">
-                  Mira Farms
+                  Simplicity Farms
                 </span>
               </div>
               <div className="flex items-center mb-3"></div>
@@ -70,7 +70,7 @@ const OurFarmPage = () => (
           <div className="flex flex-col w-full md:pl-8 md:w-1/3 lg:w-1/4">
             <div className="block mb-4 text-lg">&nbsp;</div>
             <a
-              href="https://twitter.com/FarmsMira"
+              href="https://twitter.com/SimplicityFarms"
               rel="nofollow"
               target="_blank"
               className="flex items-center px-3 py-2 mb-6 no-underline transition bg-white rounded-lg shadow-lg hover:shadow hover:-translateY-sm hover:no-underline"
