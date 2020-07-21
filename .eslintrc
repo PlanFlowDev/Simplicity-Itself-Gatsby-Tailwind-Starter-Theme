@@ -1,0 +1,16 @@
+{
+  "extends": ["react-app", "plugin:import/errors", "plugin:import/warnings"],
+  "plugins": ["prettier"],
+  "rules": {
+    "no-console": "warn",
+    "prettier/prettier": "warn"
+  },
+  "settings": {
+    "import/resolver": {
+      "alias": {
+        "map": [["src", "./src"]],
+        "extensions": [".js", ".jsx", ".ts", ".tsx"]
+      }
+    }
+  }
+}
