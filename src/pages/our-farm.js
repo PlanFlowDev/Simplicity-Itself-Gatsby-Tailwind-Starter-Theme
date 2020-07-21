@@ -70,7 +70,7 @@ const OurFarmPage = () => (
           <div className="flex flex-col w-full md:pl-8 md:w-1/3 lg:w-1/4">
             <div className="block mb-4 text-lg">&nbsp;</div>
             <a
-              href="https://twitter.com/SimplicityFarms"
+              href="https://twitter.com/SimplicityFarmsTheme"
               rel="nofollow"
               target="_blank"
               className="flex items-center px-3 py-2 mb-6 no-underline transition bg-white rounded-lg shadow-lg hover:shadow hover:-translateY-sm hover:no-underline"
@@ -101,7 +101,7 @@ const OurFarmPage = () => (
                   Twitter
                 </span>
                 <span className="text-sm font-bold text-black truncate">
-                  MiraFarmsLtd
+                  SimplicityFarmsLtd
                 </span>
               </div>
             </a>

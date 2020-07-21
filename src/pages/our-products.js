@@ -37,7 +37,7 @@ const IndexPage = () => (
             </div>
             <button className="flex px-4 py-2 mb-3 ml-6 text-sm font-bold text-white rounded shadow-sm sm:text-base bg-orange hover:bg-orange-dark">
               Buy With Stripe
-              <img className="w-6 ml-3" src={StripeImage1}></img>
+              <img className="w-6 ml-3 shadow-sm" src={StripeImage1}></img>
             </button>
             <div className="flex flex-col px-6 py-4 sm:flex-row">
               <span className="w-20 mb-4 mr-2 text-white sm:w-auto prd-tag bg-primary sm:mb-0">
@@ -72,7 +72,7 @@ const IndexPage = () => (
             </div>
             <button className="flex px-4 py-2 mb-3 ml-6 text-sm font-bold text-white rounded shadow-sm sm:text-base bg-orange hover:bg-orange-dark">
               Buy With Stripe
-              <img className="w-6 ml-3" src={StripeImage1}></img>
+              <img className="w-6 ml-3 shadow-sm" src={StripeImage1}></img>
             </button>
             <div className="flex flex-col px-6 py-4 sm:flex-row">
               <span className="w-20 mb-4 mr-2 text-white sm:w-auto prd-tag bg-primary sm:mb-0">

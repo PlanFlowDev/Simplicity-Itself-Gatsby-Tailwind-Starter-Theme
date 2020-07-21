@@ -40,8 +40,8 @@ const IndexPage = () => (
             </span>
           </div>
           <div className="mt-4 text-xl">
-            Founded in 2018, Mira Farms has been growing high-quality,
-            sustainable rice for the gambian market.
+            Founded in 2018, Simplicity Farms has been growing high-quality,
+            sustainable rice for the market.
           </div>
           <div className="h-16 my-5 mt-10">
             <Link
@@ -67,8 +67,8 @@ const IndexPage = () => (
                   className="float-left mr-1"
                   src="https://assets-global.website-files.com/5b5a66e9f3166b36708705fa/5cf8fb1f994fb7168d0d66fb_quote-intro.svg"
                 ></img>{' '}
-                Our dream with Mira Farms is to achieve true rice sustenance
-                within The Gambia.
+                Our dream with Simplicity Farms is to grow the truest, and highest quality rice
+                in the world.
                 <p className="mt-4 text-sm">- Andrew Carnegie, Founder</p>
               </div>
             </div>
@@ -133,11 +133,11 @@ const IndexPage = () => (
             </div>
             <button className="flex px-4 py-2 mb-3 ml-6 text-sm font-bold text-white rounded shadow-sm sm:text-base bg-orange hover:bg-orange-dark">
               Buy With Stripe
-              <img className="w-6 ml-3" src={StripeImage1}></img>
+              <img className="w-6 ml-3 shadow-sm" src={StripeImage1}></img>
             </button>
             <div className="flex flex-col px-6 py-4 sm:flex-row">
               <span className="w-20 mb-4 mr-2 text-white sm:w-auto prd-tag bg-primary sm:mb-0">
-                D1,250
+                $1,250
               </span>
               <span className="w-20 mr-2 text-white sm:w-auto prd-tag bg-brown-light">
                 25KG
@@ -168,11 +168,11 @@ const IndexPage = () => (
             </div>
             <button className="flex px-4 py-2 mb-3 ml-6 text-sm font-bold text-white rounded shadow-sm sm:text-base bg-orange hover:bg-orange-dark">
               Buy With Stripe
-              <img className="w-6 ml-3" src={StripeImage1}></img>
+              <img className="w-6 ml-3 shadow-sm" src={StripeImage1}></img>
             </button>
             <div className="flex flex-col px-6 py-4 sm:flex-row">
               <span className="w-20 mb-4 mr-2 text-white sm:w-auto prd-tag bg-primary sm:mb-0">
-                D2,500
+                $2,500
               </span>
               <span className="w-20 mr-2 text-white sm:w-auto prd-tag bg-brown-light">
                 50KG
