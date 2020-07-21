@@ -4,6 +4,8 @@ import { Link } from 'gatsby';
 import Layout from 'src/components/Layout';
 import MiraFarmsImage1 from 'src/images/mira-farms-1.jpeg';
 import SelloxImage1 from 'src/images/sellox.png';
+import GastbyIcon from 'src/images/gatsby-icon.png';
+import TailwindIcon from 'src/images/tailwind.png';
 import SEO from 'src/components/SEO';
 
 const IndexPage = () => (
@@ -14,7 +16,15 @@ const IndexPage = () => (
       <div className="flex flex-col pb-10 border-b-2 md:flex-row">
         <div className="flex flex-col justify-center max-w-md md:w-1/2">
           <div className="text-2xl font-black uppercase md:text-5xl text-primary">
-            Quality Rice, Home-Grown In The Gambia
+            <span className="">Quality Theme, Grown From <img
+                alt="card img"
+                className="w-10 rounded-t"
+                src={GastbyIcon}
+              ></img> and <img
+              alt="card img"
+              className="w-10 rounded-t"
+              src={TailwindIcon}
+            ></img></span>
           </div>
           <div className="mt-4 text-xl">
             Founded in 2018, Mira Farms has been growing high-quality,

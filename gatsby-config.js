@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: 'Mira Farms',
-    description: 'Authentic Rice Farming Within The Gambia',
-    author: '',
-    company: 'Mira Farms Ltd',
+    title: 'Simplicity Itself',
+    description: 'A Simple, Free Gatsby/TailwindCSS Starter Theme For Business Websites',
+    author: 'PlanFlow.dev',
+    company: '<ADD YOUR COMPANY NAME HERE>',
   },
   plugins: [
     'gatsby-plugin-postcss',
@@ -34,7 +34,7 @@ module.exports = {
         background_color: '#663399',
         theme_color: '#663399',
         display: 'minimal-ui',
-        icon: 'src/images/mira.jpeg', // This path is relative to the root of the site.
+        icon: 'src/images/icon.png', // This path is relative to the root of the site.
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
