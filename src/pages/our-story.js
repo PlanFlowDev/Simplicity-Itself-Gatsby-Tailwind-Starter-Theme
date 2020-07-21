@@ -37,9 +37,9 @@ const OurStoryPage = () => (
           <div class="p-4 text-center bg-white hover:bg-gray-100 hover:shadow-lg transition border rounded m-2 h-3/4 pb-10 sm:pb-auto sm:h-full flex flex-col justify-between">
             <img class="rounded sm:h-32 w-3/4 sm:w-full mx-auto"
               alt="Burris Custom Turrets"
-              src="https://imgur.com/GHWFqRs.jpg"
+              src={FarmImage}
             ></img>
-            <h2 class="text-sm sm:text-xl mb-0 text-gray-900">Burris</h2>
+            <h2 class="text-sm sm:text-lg mb-0 text-gray-900">Burris</h2>
           </div>
         </Link>
         <Link class="hover:no-underline w-1/4 sm:w-1/2 lg:w-1/4 mb-6"
@@ -49,9 +49,9 @@ const OurStoryPage = () => (
           <div class="p-4 text-center bg-white hover:bg-gray-100 hover:shadow-lg transition border rounded m-2 h-3/4 pb-10 sm:pb-auto sm:h-full flex flex-col justify-between">
             <img class="rounded sm:h-32 w-3/4 sm:w-full mx-auto"
               alt="Bushnell Custom Turrets"
-              src="https://imgur.com/nEbeaju.jpg"
+              src={FarmImage}
             ></img>
-            <h2 class="text-sm sm:text-xl mb-0 text-gray-900">Bushnell</h2>
+            <h2 class="text-sm sm:text-lg mb-0 text-gray-900">Bushnell</h2>
           </div>
         </Link>
         <Link class="hover:no-underline w-1/4 sm:w-1/2 lg:w-1/4 mb-6"
@@ -61,9 +61,9 @@ const OurStoryPage = () => (
           <div class="p-4 text-center bg-white hover:bg-gray-100 hover:shadow-lg transition border rounded m-2 h-3/4 pb-10 sm:pb-auto sm:h-full flex flex-col justify-between">
             <img class="rounded sm:h-32 w-3/4 sm:w-full mx-auto"
               alt="Kahles Custom Turrets"
-              src="https://imgur.com/FxqGLzn.png"
+              src={FarmImage}
             ></img>
-            <h2 class="text-sm sm:text-xl mb-0 text-gray-900">Kahles</h2>
+            <h2 class="text-sm sm:text-lg mb-0 text-gray-900">Kahles</h2>
           </div>
         </Link>
         <Link class="hover:no-underline w-1/4 sm:w-1/2 lg:w-1/4 mb-6"
@@ -75,7 +75,7 @@ const OurStoryPage = () => (
               alt="Leupold Custom Turrets"
               src={FarmImage}
             ></img>
-            <h2 class="text-sm sm:text-xl mb-0 text-gray-900">Leupold</h2>
+            <h2 class="text-sm sm:text-lg mb-0 text-gray-900">Leupold</h2>
           </div>
         </Link>
       </div>
@@ -107,9 +107,9 @@ const OurStoryPage = () => (
           <div class="p-4 text-center bg-white hover:bg-gray-100 hover:shadow-lg transition border rounded m-2 h-3/4 pb-10 sm:pb-auto sm:h-full flex flex-col justify-between">
             <img class="rounded sm:h-32 w-3/4 sm:w-full mx-auto"
               alt="Burris Custom Turrets"
-              src="https://imgur.com/GHWFqRs.jpg"
+              src={FarmImage}
             ></img>
-            <h2 class="text-sm sm:text-xl mb-0 text-gray-900">Burris</h2>
+            <h2 class="text-sm sm:text-lg mb-0 text-gray-900">Burris</h2>
           </div>
         </Link>
         <Link class="hover:no-underline w-1/4 sm:w-1/2 lg:w-1/4 mb-6"
@@ -119,9 +119,9 @@ const OurStoryPage = () => (
           <div class="p-4 text-center bg-white hover:bg-gray-100 hover:shadow-lg transition border rounded m-2 h-3/4 pb-10 sm:pb-auto sm:h-full flex flex-col justify-between">
             <img class="rounded sm:h-32 w-3/4 sm:w-full mx-auto"
               alt="Bushnell Custom Turrets"
-              src="https://imgur.com/nEbeaju.jpg"
+              src={FarmImage}
             ></img>
-            <h2 class="text-sm sm:text-xl mb-0 text-gray-900">Bushnell</h2>
+            <h2 class="text-sm sm:text-lg mb-0 text-gray-900">Bushnell</h2>
           </div>
         </Link>
       </div>

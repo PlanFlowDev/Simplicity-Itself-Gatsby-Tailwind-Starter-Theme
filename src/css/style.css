@@ -42,7 +42,7 @@ a:focus {
 }
 
 .tooltip .tooltip-text {
-  @apply invisible p-2 absolute z-50 inline-block text-sm w-32 text-center rounded-lg shadow-sm bg-white text-primary;
+  @apply border-solid border-secondary border-2 invisible p-2 absolute z-50 inline-block text-sm w-32 text-center rounded-lg shadow-sm bg-white text-primary;
 }
 
 .tooltip:hover .tooltip-text {
