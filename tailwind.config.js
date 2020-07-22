@@ -18,13 +18,6 @@ module.exports = {
         '4/3': [4, 3],
         '21/9': [21, 9],
       },
-      // screens: {
-      //   nexus: { min: '600px', max: '640px' },
-      //   sm: { min: '640px', max: '767px' },
-      //   md: { min: '768px', max: '1023px' },
-      //   lg: { min: '1024px', max: '1279px' },
-      //   xl: { min: '1280px' },
-      // },
     },
     // You'll probably use a font family for titles, and another for body text
     fontFamily: {

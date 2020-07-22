@@ -308,7 +308,7 @@ const IndexPage = () => (
                       <Link target="_blank" href="https://www.goreminders.com/">
                         Lacey Turner
                         <br />
-                        Founder Ton Farms
+                        Founder of Ton Farms
                       </Link>
                     </p>
                   </div>

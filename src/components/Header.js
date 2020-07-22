@@ -2,7 +2,6 @@ import { Link } from 'gatsby';
 import PropTypes from 'prop-types';
 import React, { useState } from 'react';
 import mainLogo from '../images/logo.png';
-// import { graphql, useStaticQuery, Link } from "gatsby";
 
 function Header({ siteTitle }) {
   const [isExpanded, toggleExpansion] = useState(false);
@@ -13,7 +12,7 @@ function Header({ siteTitle }) {
         <Link to="/" className="">
           <div className="no-underline opacity-100 hover:text-white hover:no-underline">
             <span className="pl-2 text-2xl text-blue">
-              <img alt="Mira Farms" className="inline w-48" src={mainLogo} />
+              <img alt="Simplicity Farms" className="inline w-48" src={mainLogo} />
               {/* {siteTitle} */}
             </span>
           </div>

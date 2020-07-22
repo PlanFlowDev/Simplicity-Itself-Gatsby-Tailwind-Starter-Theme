@@ -1,9 +1,6 @@
-import miraLogo from '../images/Mira.png';
-// import { graphql, useStaticQuery, Link } from "gatsby";
 import PropTypes from 'prop-types';
 import { Link } from 'gatsby';
 import React from 'react';
-//import React, { useState } from "react"
 
 const Footer = ({ companyName }) => (
   <footer className="w-full px-4 py-6 shadow-sm bg-beige">
@@ -77,11 +74,11 @@ const Footer = ({ companyName }) => (
 );
 
 Footer.propTypes = {
-  siteTitle: PropTypes.string,
+  companyName: PropTypes.string,
 };
 
 Footer.defaultProps = {
-  siteTitle: ``,
+  companyName: ``,
 };
 
 export default Footer;

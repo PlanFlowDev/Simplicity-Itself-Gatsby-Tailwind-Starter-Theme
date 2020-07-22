@@ -7,7 +7,6 @@ import TestImage2 from 'src/images/test-image-2.jpg';
 import TestImage3 from 'src/images/test-image-3.jpg';
 import FarmProduct1 from 'src/images/farm-product-1.jpg';
 import FarmProduct2 from 'src/images/farm-product-2.jpg';
-import MiraFarmsImage1 from 'src/images/mira-farms-1.jpeg';
 import StripeImage1 from 'src/images/logo-stripe.png';
 import SEO from 'src/components/SEO';
 
@@ -212,7 +211,7 @@ const IndexPage = () => (
                       <Link target="_blank" href="https://www.goreminders.com/">
                         Lacey Turner
                         <br />
-                        Founder Ton Farms
+                        Founder of Ton Farms
                       </Link>
                     </p>
                   </div>
