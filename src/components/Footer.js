@@ -19,7 +19,7 @@ const Footer = ({ companyName }) => (
         <span className="mr-6 text-sm text-center sm:mr-0 sm:text-base">
           © {companyName}, {new Date().getFullYear()}.{' '}
         </span>
-        <span className="flex mt-4 text-xs italic sm:mt-0">
+        <span className="flex justify-center mt-4 text-xs italic sm:mt-0 sm:justify-start">
           Made In A Laptop
           <img
             className="w-6 ml-2"

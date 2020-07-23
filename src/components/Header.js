@@ -36,6 +36,10 @@ function Header({ siteTitle }) {
               title: `Our Farm`,
             },
             {
+              route: `/our-blog`,
+              title: `Our Blog`,
+            },
+            {
               route: `/our-products`,
               title: `Our Products`,
             },
@@ -95,6 +99,10 @@ function Header({ siteTitle }) {
                     {
                       route: `/our-farm`,
                       title: `Our Farm`,
+                    },
+                    {
+                      route: `/our-blog`,
+                      title: `Our Blog`,
                     },
                     {
                       route: `/our-products`,
