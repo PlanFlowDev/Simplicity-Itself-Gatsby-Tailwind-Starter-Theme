@@ -48,3 +48,7 @@ a:focus {
 .tooltip:hover .tooltip-text {
   @apply visible;
 }
+
+.head-3 {
+ @apply py-4 mb-2 text-xl font-bold;
+}
