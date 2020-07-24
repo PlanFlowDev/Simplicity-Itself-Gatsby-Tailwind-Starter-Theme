@@ -23,7 +23,7 @@ const BlogPostPage = () => (
                 Farms
               </span>
               <span className="w-20 mr-2 text-white sm:w-auto prd-tag bg-brown-light">
-                5 Min Read.
+                5 Min.
               </span>
               <span className="hidden mr-2 text-gray-600 bg-gray-100 md:block prd-tag">
                 #organic

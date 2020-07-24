@@ -106,7 +106,7 @@ const OurBlogPage = () => (
                   jianbing microdosing tousled waistcoat.
                 </p>
                 <div className="flex flex-wrap items-center">
-                  <Link className="inline-flex items-center text-primary md:mb-2 lg:mb-0">
+                  <Link className="inline-flex items-center text-primary md:mb-2 lg:mb-0" to="/blog-post">
                     Learn More
                     <svg
                       className="w-4 h-4 ml-2"
@@ -173,7 +173,7 @@ const OurBlogPage = () => (
                   jianbing microdosing tousled waistcoat.
                 </p>
                 <div className="flex flex-wrap items-center ">
-                  <Link className="inline-flex items-center text-primary md:mb-2 lg:mb-0">
+                  <Link className="inline-flex items-center text-primary md:mb-2 lg:mb-0" to="/blog-post">
                     Learn More
                     <svg
                       className="w-4 h-4 ml-2"
