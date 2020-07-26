@@ -11,9 +11,7 @@ const OurBlogPage = () => (
     <div className="text-gray-700 body-font">
       <div className="container px-5 py-24 mx-auto">
       <div className="flex flex-col w-full mb-12 text-center">
-              <h1 className="text-center font-slim text-brown">
-                Our Blog
-              </h1>
+          <h1 className="text-center font-slim text-brown">Our Blog</h1>
               <p className="mx-auto text-base leading-relaxed lg:w-2/3">
                 Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical
                 gentrify.

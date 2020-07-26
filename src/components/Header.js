@@ -60,6 +60,7 @@ function Header({ siteTitle }) {
           </Link>
         </div>
         <div className="block lg:hidden">
+          {/* beginning of hamburger */}
           <button
             onClick={() => toggleExpansion(!isExpanded)}
             className="flex items-center px-3 py-2 border rounded text-primary border-primary hover:text-secondary hover:border-secondary"
