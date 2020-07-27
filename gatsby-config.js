@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Simplicity Itself',
     description: 'A Simple, Free Gatsby/TailwindCSS Starter Theme For Business Websites',
-    author: 'PlanFlow.dev',
+    author: 'https://PlanFlow.dev',
     company: 'Your Company Name Here',
   },
   plugins: [

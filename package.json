@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-simplicity-itself",
+  "name": "gatsby-tailwind-simplicity-theme",
   "private": true,
-  "description": "Get up and ruunning quickly with a great UX, Gatsby and Tailwind CSS",
-  "version": "0.1.1",
-  "author": "Tapha Ngum <taphangum7@gmail.com>",
+  "description": "A Simple, Free Gatsby/TailwindCSS Starter Theme For Business Websites",
+  "version": "0.1.0",
+  "author": "Tapha @ PlanFlow.dev <tapha@planflow.com>",
   "dependencies": {
     "gatsby": "^2.21.37",
     "gatsby-background-image": "^1.1.1",
@@ -46,7 +46,8 @@
     "gatsby",
     "tailwind",
     "tailwindcss",
-    "react"
+    "react",
+    "simplicity-itself"
   ],
   "license": "MIT",
   "scripts": {
@@ -61,9 +62,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mjsarfatti/gatsby-starter-tailwind-opinionated"
+    "url": "https://github.com/PlanFlowDev/Simplicity-Itself-Gatsby-Tailwind-Starter-Theme"
   },
   "bugs": {
-    "url": "https://github.com/mjsarfatti/gatsby-starter-tailwind-opinionated/issues"
+    "url": "https://github.com/PlanFlowDev/Simplicity-Itself-Gatsby-Tailwind-Starter-Theme/issues"
   }
 }
