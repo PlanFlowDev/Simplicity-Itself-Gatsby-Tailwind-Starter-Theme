@@ -8,10 +8,10 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's default starter + Tailwind CSS
+  Simplicity Itself Gatsby/TailwindCSS Starter Theme
 </h1>
 
-Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React. In addition, you get a sensible Tailwind CSS configuration, with a bunch of (opinionated) goodies.
+A Simple, Free Gatsby/TailwindCSS Starter Theme For Business Websites.
 
 _Have another more specific idea? You may want to check out Gatsby's vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
@@ -23,7 +23,7 @@ _Have another more specific idea? You may want to check out Gatsby's vibrant col
 
     ```shell
     # create a new Gatsby site using this starter
-    gatsby new my-tailwind-starter https://github.com/mjsarfatti/gatsby-starter-tailwind-opinionated
+    gatsby new my-tailwind-starter https://github.com/PlanFlowDev/Simplicity-Itself-Gatsby-Tailwind-Starter-Theme
     ```
 
 1.  **Start developing.**
@@ -123,8 +123,8 @@ Still not so sure what this Tailwind is? Find the full documentation on the [off
 
 ## 💫 Deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/mjsarfatti/gatsby-starter-tailwind-opinionated)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/PlanFlowDev/Simplicity-Itself-Gatsby-Tailwind-Starter-Theme)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/mjsarfatti/gatsby-starter-tailwind-opinionated)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/PlanFlowDev/Simplicity-Itself-Gatsby-Tailwind-Starter-Theme)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
