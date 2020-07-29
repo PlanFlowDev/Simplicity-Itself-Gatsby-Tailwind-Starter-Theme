@@ -15,8 +15,6 @@
 
 A Simple, Free Gatsby/TailwindCSS Starter Theme For Business Websites.
 
-_Have another more specific idea? You may want to check out Gatsby's vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
-
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
