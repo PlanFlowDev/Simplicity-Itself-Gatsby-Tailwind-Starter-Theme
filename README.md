@@ -26,6 +26,13 @@ A Simple, Free Gatsby/TailwindCSS Starter Theme For Business Websites.
     gatsby new my-tailwind-starter https://github.com/PlanFlowDev/Simplicity-Itself-Gatsby-Tailwind-Starter-Theme
     ```
 
+    Or simply use the CLI to download it as an NPM package:
+
+     ```shell
+    # Run the following command in your CLI
+    npm i gatsby-tailwind-simplicity-theme
+    ```
+
 1.  **Start developing.**
 
     Navigate into your new site’s directory and start it up.
