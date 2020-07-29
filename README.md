@@ -11,7 +11,7 @@
   Simplicity Itself Gatsby/TailwindCSS Starter Theme
 </h1>
 
-![screenshot image](theme-screenshot-simplicity-itself-light.png)
+![screenshot image](./theme-screenshot-simplicity-itself-light.png)
 
 A Simple, Free Gatsby/TailwindCSS Starter Theme For Business Websites.
 
