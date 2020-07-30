@@ -1,4 +1,3 @@
-const path = require('path');
 module.exports = {
   siteMetadata: {
     title: 'Simplicity Itself',
@@ -8,6 +7,7 @@ module.exports = {
   },
   plugins: [
     'gatsby-plugin-postcss',
+    'gatsby-plugin-root-import',
     'gatsby-plugin-react-helmet',
     {
       resolve: 'gatsby-source-filesystem',
