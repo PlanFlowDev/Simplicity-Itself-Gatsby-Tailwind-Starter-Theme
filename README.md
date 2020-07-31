@@ -17,6 +17,8 @@ A Simple, Free Gatsby/TailwindCSS Starter Theme For Business Websites.
 
 ### DEMO: [simplicity-itself.planflow.dev](https://simplicity-itself.planflow.dev)
 
+#### Check Out Some Of Our Other Themes: [PlanFlow Free Themes](https://planflow.dev/free-themes)
+
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
